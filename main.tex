@@ -1,0 +1,151 @@
+\documentclass[12pt,twoside]{article}
+\renewcommand{\rmdefault}{cmr}
+\renewcommand{\sfdefault}{cmss}
+\renewcommand{\ttdefault}{cmtt}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english,spanish,es-tabla]{babel}
+\usepackage[letterpaper]{geometry}
+\usepackage{xltxtra}
+\setmainfont[Mapping=tex-text]{Arial}
+\geometry{verbose,nomarginpar,tmargin=3cm,bmargin=3cm,lmargin=3cm,rmargin=3cm}
+\setlength{\parskip}{\medskipamount}
+\setlength{\parindent}{0pt}
+\usepackage{array}
+\usepackage{float}
+\usepackage{setspace}
+\usepackage{graphicx}
+\doublespacing
+\usepackage{caption}
+%% Para importar de Excel a Overleaf
+\usepackage{booktabs}
+\usepackage{longtable}  
+\usepackage[table]{xcolor}
+\usepackage{multicol}
+ \usepackage{lscape}
+\definecolor{gris}{rgb}{.851,.851,.851}
+\renewcommand{\arraystretch}{2}
+\thispagestyle{empty}
+\captionsetup{justification=centering}
+\usepackage[unicode=true,
+ bookmarks=true,bookmarksnumbered=false,bookmarksopen=false,
+ breaklinks=false,pdfborder={0 0 0},backref=section,colorlinks=true, linkcolor=blue]
+ {hyperref}
+\hypersetup{
+    colorlinks=false,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+\makeatletter
+
+%% Los convertidores HTML no saben que es tabularnewline
+\providecommand{\tabularnewline}{\\}
+
+% No generar la salida para \date
+\date{}
+% Utilizar el punto decimal, en vez de la acostumbrada coma del español.
+% Esto está de acuerdo con la Norma NTC/ISO 80000-1
+\decimalpoint
+
+% Etiqueta de figura y tabla a la izquierda seguida de punto.
+\usepackage[justification=justified, singlelinecheck=false, labelsep = period]{caption}
+% Centrar títulos de secciones
+\usepackage{sectsty}
+\thispagestyle{empty}
+
+
+\raggedbottom
+\begin{document}
+
+\begin{titlepage}
+\begin{center}
+
+
+{\Large \textbf{Evaluación del comportamiento de sistemas de almacenamiento por baterías bajo la influencia de fenómenos de calidad de potencia en la red eléctrica.}}\\%la función "Huge" es para aumentar el tamaño de letra considerable, esos dobles backslash ayudan a saltar linea  
+\vspace*{2\baselineskip}
+\textbf{Autores}\\
+\vspace*{0.2\baselineskip}
+Edwar Santiago Rodriguez Rodriguez \\[0.2cm]
+Daniel Alejandro Moya Diaz\\[0.2cm]
+
+\vspace*{3.5\baselineskip}
+Director:\\
+Andres Felipe Guerrero\\
+\vspace*{2\baselineskip}
+
+
+\vfill %rellena espacios en blanco por lo que usted escriba
+\textbf{Universidad de Cundinamarca} \\
+Facultad de Ingeniería\\
+Programa de Ingeniería Electrónica\\
+Fusagasug\'{a},Colombia\\
+2023
+
+\end{center}
+\end{titlepage}
+\newpage
+\begin{center}
+{\LARGE \textbf{Información del proyecto de investigación }}
+\end{center}
+\vspace*{0.09\baselineskip}
+\hrule
+\vspace*{0.2\baselineskip}
+\input{secciones/informaciónproyecto/informeproyecto}
+\newpage
+\section{Contexto}
+\vspace*{0.08\baselineskip}
+\hrule
+\vspace*{0.2\baselineskip}
+\input{secciones/contexto/contexto}
+
+\newpage
+\section{Antecedentes}
+\vspace*{0.08\baselineskip}
+\hrule
+\vspace*{0.7\baselineskip}
+\input{secciones/antecedentes/antecedentes}
+
+
+
+
+\newpage
+\section{Objetivos}
+\vspace*{0.08\baselineskip}
+\hrule
+\vspace*{0.7\baselineskip}
+\subsection{Objetivo general}
+\input{secciones/objetivos/objetivogeneral}
+\subsection{Objetivos específicos}
+\input{secciones/objetivos/objetivosespecificos}
+
+
+
+\newpage
+\section{Metodología}
+\vspace*{0.2\baselineskip}
+\hrule
+\vspace*{0.7\baselineskip}
+\input{secciones/Metodologia/metodologia}
+\newpage
+
+
+\section{Marco conceptual}
+\vspace*{0.2\baselineskip}
+\hrule
+\vspace*{0.7\baselineskip}
+\input{secciones/marcoconceptual/marcoconceptual}
+
+
+\newpage
+\section{Cronograma}
+\input{secciones/cronograma/cronograma.tex}
+\newpage
+\bibliographystyle{tesisUTP}
+\phantomsection\addcontentsline{toc}{section}{\refname}
+% Borrar linea \nocite{*} en el documento real.
+% \nocite{*} imprime todas las referencias del archivo .bib, sin importar sin han sido referenciadas o no.  Por eso se debe borrar.
+\nocite{*}
+\bibliography{Referencias}
+\end{document}

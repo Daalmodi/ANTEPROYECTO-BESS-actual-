@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: tesisUTP.bst
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+Database file #1: Referencias.bib
+Warning--empty title in bess_distritall
+You've used 19 entries,
+            2877 wiz_defined-function locations,
+            696 strings with 9293 characters,
+and the built_in function-call counts, 6981 in all, are:
+= -- 569
+> -- 95
+< -- 11
++ -- 49
+- -- 23
+* -- 366
+:= -- 671
+add.period$ -- 54
+call.type$ -- 19
+change.case$ -- 12
+chr.to.int$ -- 0
+cite$ -- 20
+duplicate$ -- 808
+empty$ -- 745
+format.name$ -- 52
+if$ -- 1557
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 120
+newline$ -- 97
+num.names$ -- 16
+pop$ -- 363
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 236
+stack$ -- 0
+substring$ -- 448
+swap$ -- 375
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 32
+width$ -- 21
+write$ -- 190
+(There was 1 warning)

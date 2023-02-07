@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.12) (preloaded format=xelatex 2023.1.26)  5 FEB 2023 21:05
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.12) (preloaded format=xelatex 2023.1.26)  7 FEB 2023 09:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/daalm/OneDrive - UNIVERSIDAD DE CUNDINAMARCA/TESIS/proyecto/ANTEPROYECTO-BESS-actual-/main.tex"
-(c:/Users/daalm/OneDrive - UNIVERSIDAD DE CUNDINAMARCA/TESIS/proyecto/ANTEPROYECTO-BESS-actual-/main.tex
+**"c:/Users/daalm/OneDrive - UNIVERSIDAD DE CUNDINAMARCA/TESIS/proyecto/ANTEPROYECTO-BESS-actual-/ANTEPROYECTO-BESS-actual-/main.tex"
+(c:/Users/daalm/OneDrive - UNIVERSIDAD DE CUNDINAMARCA/TESIS/proyecto/ANTEPROYECTO-BESS-actual-/ANTEPROYECTO-BESS-actual-/main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-01-16> (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -812,11 +812,11 @@ Package rerunfilecheck Info: File `main.brf' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  15390 strings out of 411564
- 301829 string characters out of 2820141
+ 301907 string characters out of 2820141
  1860985 words of memory out of 3000000
  35288 multiletter control sequences out of 15000+600000
  516339 words of font info for 67 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 87i,14n,91p,1001b,462s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 87i,14n,91p,1027b,462s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
 Output written on main.xdv (21 pages, 235952 bytes).

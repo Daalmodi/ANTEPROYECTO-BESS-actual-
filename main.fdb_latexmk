@@ -1,18 +1,18 @@
 # Fdb version 4
-["bibtex main"] 1676044716 "main.aux" "main.bbl" "main" 1676044728 0
+["bibtex main"] 1676045650 "main.aux" "main.bbl" "main" 1676045664 0
   "./Referencias.bib" 1675648176 6101 ff795a9330972aacf8762a9b6f0f4ca5 ""
   "./tesisUTP.bst" 1675644109 34909 575bd227019f73cc61b910ee206831c2 ""
-  "main.aux" 1676044719 7059 bcd9039ac604795ee37f81a59ce1c8ea "xelatex"
+  "main.aux" 1676045653 7059 bcd9039ac604795ee37f81a59ce1c8ea "xelatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["xdvipdfmx"] 1676044720 "main.xdv" "main.pdf" "main" 1676044728 0
-  "main.xdv" 1676044719 235940 961e8340af9d605c260626818271c179 "xelatex"
+["xdvipdfmx"] 1676045654 "main.xdv" "main.pdf" "main" 1676045664 0
+  "main.xdv" 1676045653 235960 bff0c4b264554112b92f0a37b9f65130 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1676044717 "c:/Users/daalm/OneDrive - UNIVERSIDAD DE CUNDINAMARCA/TESIS/proyecto/ANTEPROYECTO-BESS-actual-/main.tex" "main.xdv" "main" 1676044728 0
+["xelatex"] 1676045651 "c:/Users/daalm/OneDrive - UNIVERSIDAD DE CUNDINAMARCA/TESIS/proyecto/ANTEPROYECTO-BESS-actual-/main.tex" "main.xdv" "main" 1676045664 0
   "C:/Users/daalm/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1674795596 36436940 de2ef8e1f8b6e5621fdf0b62b07bb9b4 ""
   "C:/Users/daalm/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136790254 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/daalm/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/ecrm1200.tfm" 993062126 3152 4850ff0163852b7fab34bd55e1197f28 ""
@@ -117,19 +117,19 @@
   "Imágenes/cronograma/cronograma.eps" 1675644109 1320783 90ddbf21154d28a91c089060a8d80bfb ""
   "Imágenes/marcoconceptual/Tipos de energias.png" 1675644109 179822 f9a3bdc400d7b7b5feb5e926a862b4ea ""
   "c:/Users/daalm/OneDrive - UNIVERSIDAD DE CUNDINAMARCA/TESIS/proyecto/ANTEPROYECTO-BESS-actual-/main.tex" 1675644109 4103 b6c94333f5f28b9e2a53d9eac2298ab3 ""
-  "main.aux" 1676044719 7059 bcd9039ac604795ee37f81a59ce1c8ea "xelatex"
-  "main.bbl" 1676044716 5504 b08059e2fb8b5894a42d8f743fd313b1 "bibtex main"
-  "main.brf" 1676044719 1282 ad3d654adba0be046cffc21eac51253f "xelatex"
-  "main.out" 1676044719 1381 20fd736bd10d1d6cd110585c1f32da91 "xelatex"
+  "main.aux" 1676045653 7059 bcd9039ac604795ee37f81a59ce1c8ea "xelatex"
+  "main.bbl" 1676045651 5504 b08059e2fb8b5894a42d8f743fd313b1 "bibtex main"
+  "main.brf" 1676045653 1282 ad3d654adba0be046cffc21eac51253f "xelatex"
+  "main.out" 1676045653 1381 20fd736bd10d1d6cd110585c1f32da91 "xelatex"
   "main.tex" 1675644109 4103 b6c94333f5f28b9e2a53d9eac2298ab3 ""
-  "secciones/Metodologia/metodologia.tex" 1675644109 1733 0c4f59e658b9ebfa00ecfbed2442d51c ""
+  "secciones/Metodologia/metodologia.tex" 1676045534 1734 6081dc858ebc54786602f8206944f425 ""
   "secciones/antecedentes/antecedentes.tex" 1676044671 5703 da40910ec3df189a540c7a0b7773061c ""
-  "secciones/contexto/contexto.tex" 1675648917 2974 4c3ae31046a39a65db58568931be451f ""
+  "secciones/contexto/contexto.tex" 1676045001 2974 4c3ae31046a39a65db58568931be451f ""
   "secciones/cronograma/cronograma.tex" 1675644109 184 5c4edab1865c7c49dba07e80c6efad81 ""
-  "secciones/informaciónproyecto/informeproyecto.tex" 1675644109 639 5677344e94f138317fa6aaf913bcabdb ""
-  "secciones/marcoconceptual/marcoconceptual.tex" 1675644109 9254 34f43c2ed7521cab5903e876fe09f18a ""
+  "secciones/informaciónproyecto/informeproyecto.tex" 1676045166 640 45946d14ab8c931d4adf1ca80e332057 ""
+  "secciones/marcoconceptual/marcoconceptual.tex" 1676045438 9256 175ae16923162b22e78f81a47a5f4fca ""
   "secciones/objetivos/objetivogeneral.tex" 1675644109 199 b4692ed16083815fbc96ed12a4040ab6 ""
-  "secciones/objetivos/objetivosespecificos.tex" 1675644109 657 4d663d7f0585685428565f03a3ec96d5 ""
+  "secciones/objetivos/objetivosespecificos.tex" 1676045630 658 66dd8cd67ebff302c40ac2c2f954a591 ""
   (generated)
   "main.aux"
   "main.brf"

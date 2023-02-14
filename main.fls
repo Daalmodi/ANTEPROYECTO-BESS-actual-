@@ -810,6 +810,10 @@ INPUT secciones\informaciónproyecto\informeproyecto.tex
 INPUT .\secciones\informaciónproyecto\informeproyecto.tex
 INPUT .\secciones\informaciónproyecto\informeproyecto.tex
 INPUT secciones\informaciónproyecto\informeproyecto.tex
+INPUT .\Imágenes\Informacionproyecto\informacion.eps
+INPUT .\Imágenes\Informacionproyecto\informacion.eps
+INPUT Imágenes\Informacionproyecto\informacion.eps
+INPUT Imágenes\Informacionproyecto\informacion.eps
 INPUT .\secciones\contexto\contexto.tex
 INPUT .\secciones\contexto\contexto.tex
 INPUT .\secciones\contexto\contexto.tex

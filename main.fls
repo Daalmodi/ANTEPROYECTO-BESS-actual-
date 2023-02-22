@@ -898,6 +898,10 @@ INPUT .\Imágenes\cronograma\cronograma.eps
 INPUT .\Imágenes\cronograma\cronograma.eps
 INPUT Imágenes\cronograma\cronograma.eps
 INPUT Imágenes\cronograma\cronograma.eps
+INPUT .\secciones\Presupuesto\presupuesto.tex
+INPUT secciones\Presupuesto\presupuesto.tex
+INPUT .\secciones\Presupuesto\presupuesto.tex
+INPUT secciones\Presupuesto\presupuesto.tex
 INPUT .\main.bbl
 INPUT main.bbl
 INPUT .\main.bbl

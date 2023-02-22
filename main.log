@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.2.6)  14 FEB 2023 11:30
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.2.6)  22 FEB 2023 12:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -680,7 +680,7 @@ Invalid UTF-8 byte or sequence at line 6 replaced by U+FFFD.
 File: Imágenes/Metodología/Fases proyecto BESS.eps Graphic file (type eps)
 <Imágenes/Metodología/Fases proyecto BESS.eps>
 
-Overfull \hbox (13.12578pt too wide) in paragraph at lines 6--7
+Overfull \hbox (11.72052pt too wide) in paragraph at lines 6--7
  [] 
  []
 
@@ -773,7 +773,7 @@ Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
 Invalid UTF-8 byte or sequence at line 7 replaced by U+FFFD.
 File: Imágenes/cronograma/cronograma.eps Graphic file (type eps)
 <Imágenes/cronograma/cronograma.eps>
-) [18] (main.bbl (main.brf)
+) [18] (secciones/Presupuesto/presupuesto.tex) [19] (main.bbl (main.brf)
 \tf@brf=\write4
 \openout4 = `main.brf'.
 
@@ -792,7 +792,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 57--57
 [][][][][][] [] [][] [] [][][][] [] [][][][][][][] [] [][][][][][][][] [] [][][][][][][][][] [] [][][][][][][][][] [] [][] [] [][][][] [][] [][][][][] []
  []
 
-[19]
+[20]
 Underfull \hbox (badness 10000) in paragraph at lines 68--68
 [][][][][][][] [] [][][][][] [] [][][] [] [][][][][][][][] [] [][][][][] [] [][] [] [][][][][][][] [] [] [] [][][][] [] [][] [] [][][][][][][][][][] []
  []
@@ -807,12 +807,12 @@ Underfull \hbox (badness 2932) in paragraph at lines 92--92
 \TU/Arial(0)/m/n/12 NIBILIDAD SESLAB, Laboratorio.  Estado de carga y profundidad de
  []
 
-[20]
+[21]
 Underfull \hbox (badness 10000) in paragraph at lines 116--116
 [][][][][][][][][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][] [] [][][][][] [] [] [] [][][][] [] [][] []
  []
 
-) [21] (main.aux
+) [22] (main.aux
 LaTeX Info: Redefining \. on input line 22.
 LaTeX Info: Redefining \% on input line 22.
 )
@@ -820,17 +820,17 @@ LaTeX Info: Redefining \% on input line 22.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 4F66EC034D4ECF7A829EE5C0819B6411;1381.
+(rerunfilecheck)             Checksum: 5147B7AC51A4001AA8A250651E74755C;1551.
 Package rerunfilecheck Info: File `main.brf' has not changed.
 (rerunfilecheck)             Checksum: EB8658005C82D662852EA98D49AFF582;1284.
  ) 
 Here is how much of TeX's memory you used:
- 15388 strings out of 411511
- 301997 string characters out of 5819116
+ 15394 strings out of 411511
+ 302190 string characters out of 5819116
  1860001 words of memory out of 5000000
- 35337 multiletter control sequences out of 15000+600000
+ 35339 multiletter control sequences out of 15000+600000
  516339 words of font info for 67 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 87i,14n,91p,1028b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,14n,91p,1028b,460s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (21 pages, 229704 bytes).
+Output written on main.xdv (22 pages, 231488 bytes).

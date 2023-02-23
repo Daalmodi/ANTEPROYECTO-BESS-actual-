@@ -1,14 +1,14 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.12) (preloaded format=xelatex 2023.1.26)  22 FEB 2023 12:54
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.2.6)  23 FEB 2023 07:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/daalm/OneDrive - UNIVERSIDAD DE CUNDINAMARCA/TESIS/proyecto/ANTEPROYECTO-BESS-actual-/main.tex"
-(c:/Users/daalm/OneDrive - UNIVERSIDAD DE CUNDINAMARCA/TESIS/proyecto/ANTEPROYECTO-BESS-actual-/main.tex
+**"c:/Users/santi/OneDrive/Documentos/Universidad/Auxiliares de investigación/Tesis GitHub/ANTEPROYECTO-BESS-actual-/main.tex"
+(c:/Users/santi/OneDrive/Documentos/Universidad/Auxiliares de investigación/Tesis GitHub/ANTEPROYECTO-BESS-actual-/main.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-01-16> (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+L3 programming layer <2023-02-02> (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
-(C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+(C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
 File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count181
@@ -22,9 +22,9 @@ File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
@@ -32,21 +32,21 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 
 Package inputenc Warning: inputenc package ignored with utf8 based engines.
 
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2022/12/26 3.84 The Babel package
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2022/01/23 3.85 The Babel package
 \babel@savecnt=\count189
 \U@D=\dimen141
 \l@unhyphenated=\language79
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/generic/babel\xebabel.def)
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/generic/babel\xebabel.def)
 \bbl@readstream=\read2
 \bbl@dirlevel=\count190
 
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+(C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
@@ -54,7 +54,7 @@ Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 (babel)             (\language73). Reported on input line 108.
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.ldf
 Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
 \es@quottoks=\toks18
 \es@quotdepth=\count191
@@ -62,20 +62,20 @@ Package babel Info: Making " an active character on input line 570.
 Package babel Info: Making . an active character on input line 675.
 Package babel Info: Making < an active character on input line 722.
 Package babel Info: Making > an active character on input line 722.
-)) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel-spanish.tex
+)) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/es\babel-spanish.tex
 Package babel Info: Importing font and identification data for spanish
 (babel)             from babel-es.ini. Reported on input line 11.
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count192
@@ -90,15 +90,15 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen148
 \Gm@layoutvoffset=\dimen149
 \Gm@dimlist=\toks20
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/xltxtra\xltxtra.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/xltxtra\xltxtra.sty
 Package: xltxtra 2018/12/31 v0.7 Improvements for the "XeLaTeX" format
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2023-01-16 L3 programming layer (loader) 
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xetex.def
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2023-02-02 L3 programming layer (loader) 
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xetex.def
 File: l3backend-xetex.def 2023-01-16 L3 backend support: XeTeX
 \g__graphics_track_int=\count195
 \l__pdf_internal_box=\box51
@@ -109,7 +109,7 @@ File: l3backend-xetex.def 2023-01-16 L3 backend support: XeTeX
 Package: xparse 2023-01-16 L3 Experimental document command parser
 )
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex.sty
 Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_script_int=\count199
 \l__fontspec_language_int=\count266
@@ -125,24 +125,24 @@ Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 \l__fontspec_tmpa_dim=\dimen150
 \l__fontspec_tmpb_dim=\dimen151
 \l__fontspec_tmpc_dim=\dimen152
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg))) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/realscripts\realscripts.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg))) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/realscripts\realscripts.sty
 Package: realscripts 2016/02/13 v0.3d Access OpenType subscripts and superscripts
 \subsupersep=\dimen153
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/metalogo\metalogo.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/metalogo\metalogo.sty
 Package: metalogo 2010/05/29 v0.12 Extended TeX logo macros
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: xetex.def on input line 107.
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
 File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
 ))
 \Gin@req@height=\dimen154
@@ -183,7 +183,7 @@ Package fontspec Info: Font family 'Arial(0)' created for font 'Arial' with
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
 (fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;+smcp;mapping=tex-text;"
 
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
 \col@sep=\dimen156
 \ar@mcellbox=\box56
@@ -192,18 +192,18 @@ Package: array 2022/03/10 v2.5f Tabular extension package (FMi)
 \extratabsurround=\skip50
 \backup@length=\skip51
 \ar@cellbox=\box57
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count276
 \float@exts=\toks24
 \float@box=\box58
 \@float@everytoks=\toks25
 \@floatcapt=\box59
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2022/03/01 v3.6b Customizing captions (AR)
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
 \caption@tempdima=\dimen158
 \captionmargin=\dimen159
@@ -218,7 +218,7 @@ Package caption Info: Standard document class detected.
 \c@caption@flags=\count277
 \c@continuedfloat=\count278
 Package caption Info: float package is loaded.
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen166
 \lightrulewidth=\dimen167
@@ -237,7 +237,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count281
 \@lastruleclass=\count282
 \@thisrulewidth=\dimen178
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
 Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \LTleft=\skip52
 \LTright=\skip53
@@ -255,18 +255,18 @@ Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \c@LT@tables=\count286
 \c@LT@chunks=\count287
 \LT@p@ftn=\toks26
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 227.
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2022/06/20 v1.0f Color table columns (DPC)
 \everycr=\toks27
 \minrowclearance=\skip56
 \rownum=\count288
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1369.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
@@ -275,7 +275,7 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
 Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \c@tracingmulticols=\count289
 \mult@box=\box65
@@ -343,39 +343,39 @@ Package: multicol 2021/11/30 v1.9d multicolumn formatting (FMi)
 \mult@nat@firstbox=\box108
 \colbreak@box=\box109
 \mc@col@check@num=\count298
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
 Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count299
@@ -383,15 +383,15 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 \@linkdim=\dimen189
 \Hy@linkcounter=\count300
 \Hy@pagecounter=\count301
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count302
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
 )
 Package hyperref Info: Option `unicode' set `true' on input line 4045.
@@ -407,28 +407,28 @@ Package hyperref Info: Plain pages OFF on input line 4177.
 Package hyperref Info: Backreferencing ON on input line 4180.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4410.
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\backref.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\backref.sty
 Package: backref 2021/02/04 v1.41 Bibliographical back referencing
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
-) (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+) (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 ))
 \c@Hy@tempcnt=\count303
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4748.
 \XeTeXLinkMargin=\dimen190
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 )
 \Fld@menulength=\count304
@@ -441,7 +441,7 @@ Package hyperref Info: backreferencing ON on input line 6040.
 Package hyperref Info: Link coloring ON on input line 6045.
 Package hyperref Info: Link coloring with OCG OFF on input line 6052.
 Package hyperref Info: PDF/A mode OFF on input line 6057.
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
@@ -450,9 +450,9 @@ package with kernel methods
 \c@Hfootnote=\count307
 )
 Package hyperref Info: Driver (autodetected): hxetex.
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
 File: hxetex.def 2022-11-13 v7.00u Hyperref driver for XeTeX
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \pdfm@box=\box110
@@ -463,7 +463,7 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 \Hy@SectionHShift=\skip59
 )
 Package hyperref Info: Option `colorlinks' set `false' on input line 39.
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty.sty
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styles
 
 
@@ -494,7 +494,7 @@ LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
 LaTeX Font Info:    ... okay on input line 60.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 60.
- (C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
+ (C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
 File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 60.
@@ -605,7 +605,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
-(C:\Users\daalm\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
+(C:\Users\santi\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
@@ -836,12 +836,12 @@ Package rerunfilecheck Info: File `main.brf' has not changed.
 (rerunfilecheck)             Checksum: EB8658005C82D662852EA98D49AFF582;1284.
  ) 
 Here is how much of TeX's memory you used:
- 15407 strings out of 411564
- 302461 string characters out of 2820141
- 1859985 words of memory out of 3000000
- 35298 multiletter control sequences out of 15000+600000
+ 15399 strings out of 411511
+ 302384 string characters out of 5819116
+ 1860001 words of memory out of 5000000
+ 35343 multiletter control sequences out of 15000+600000
  516339 words of font info for 67 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 87i,14n,91p,1009b,460s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 87i,14n,91p,1028b,460s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (22 pages, 231992 bytes).
+Output written on main.xdv (22 pages, 232232 bytes).
